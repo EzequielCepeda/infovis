@@ -1,14 +1,28 @@
 effective visual encondings
 graphical perception
+Time-varying phenomena
 scalable vector graphics
+stream graphs
+Horizon graphs
 Stem-and-Leaf Plots
 quantile-quantile (or Q-Q) plots
+scatter plot matrix
+geographical data
+cartographic projection
 choropleth map
+symbols over an underlying map
+Cartograms
+Dorling cartogram
+k-means clustering
+multi-scale inferences
 graduated symbol map
+nesting of data
 node-link diagram
 dendrogram
 Adjacency diagrams
 "icicle" layout
 "sunburst" layout
+Enclosure diagrams
 Squarified treemaps
 force-directed layouts
+arc diagram
