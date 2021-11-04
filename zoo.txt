@@ -1,0 +1,14 @@
+effective visual encondings
+graphical perception
+scalable vector graphics
+Stem-and-Leaf Plots
+quantile-quantile (or Q-Q) plots
+choropleth map
+graduated symbol map
+node-link diagram
+dendrogram
+Adjacency diagrams
+"icicle" layout
+"sunburst" layout
+Squarified treemaps
+force-directed layouts
