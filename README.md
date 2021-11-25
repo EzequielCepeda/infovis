@@ -1,5 +1,5 @@
 # Módulo: Visualización de la información
-### Trabajo Práctico Eze Cepeda
+### Trabajo Práctico de Eze Cepeda
 https://ezequielcepeda.github.io/infovis/EC_TP_Visualizacion.html
 
 Para recopilar datos para este trabajo práctico, utilice los datos que me provee la aplicación RunKeeper.
