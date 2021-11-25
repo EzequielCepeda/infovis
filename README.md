@@ -16,7 +16,7 @@ Acá vemos gráficamente que los lunes y viernes fueron los días mas empleados 
 Acá vemos que hay una relación lineal donde a mayor tiempo empleado mayor es la cantidad de kms. caminados.
 
 #### Análisis detalle velocidad
-Acá profundizamos en subdividir cada caminata en tramos de 1 km. y podemos filtrar por tramo y ver el comportamiento de cada tramo. Cuando vemos picos hacia abajo significa que es el momento en que mermamos el ritmo de la caminata por el cansancio de mi personal trainer o debido a que debíamos cruzar alguna avnida con mucho tráfico.
+Acá profundizamos en subdividir cada caminata en tramos de 1 km. y podemos filtrar por tramo y ver el comportamiento de cada tramo. Cuando vemos picos hacia abajo significa que es el momento en que mermamos el ritmo de la caminata por el cansancio de mi personal trainer o debido a que debíamos cruzar alguna avenida con mucho tráfico.
 
 #### Análisis metros elevación
 Acá no vemos una relación significativa entre los metros de elevación y la velocidad obtenida. Si bien son muy aleatorios los datos que me provee la herramienta, son poco creíbles por algunos picos mostrados, cuando el recorrido es muy similar y la diferencia puede radicar en caminar por una vereda o por otra.
